@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ZulkarnainS_1202141255_Modul4</string>
+    <string name="ready_to_start">List Nama Mahasiswa</string>
+    <string name="start_task">Mulai AsyncTask</string>
+    <string-array name="namaMhs">
+        <item>Nyonya Sri Rahayu</item>
+        <item>Nyonya Fitriani</item>
+        <item>Nyoman Diah Kumara Dewi</item>
+        <item>Nyonya Ida Ayu Gede Anila Sukma Murti</item>
+        <item>Nyonya Devalia Mesha</item>
+        <item>NyonyaGabriella Aprilliana</item>
+        <item>Nyonya Ike Wahyuning Wulandari</item>
+        <item>Bapak Yudha Bhakti Islami</item>
+        <item>Nyonya Karina Faulia Nurul Azmi</item>
+        <item>Bapak Zulkarnain Zahlan</item>
+        <item>Nyonya Julian Dwi Nugraha</item>
+        <item>Nyonya M.Rasyid Ridho Tobing</item>
+        <item>Nyonya Fajar Bagaskara</item>
+    </string-array>
+</resources>
